@@ -1,0 +1,23 @@
+{
+    "name": "namnv609/l5-fly-thumb",
+    "description": "Resize image on the fly for Laravel 5",
+    "keywords": ["resize image", "on the fly", "php", "laravel 5", "thumbnail"],
+    "require": {
+        "php": ">=5.5.9",
+        "intervention/image": "^2.3",
+        "laravel/framework": "~5.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "NamNV609",
+            "email": "namnv609@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NNV\\": "lib/"
+        }
+    },
+    "minimum-stability": "dev"
+}
