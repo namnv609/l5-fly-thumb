@@ -1,4 +1,4 @@
 # Laravel 5 FlyThumb
 Resize image on the fly for Laravel 5
 
-**Code and document is under construction**
+**[Video tutorial (documentation)](https://drive.google.com/file/d/0B1AQ6cykT8CiMjNzdVp3cTVQN0k/view?usp=sharing)**
